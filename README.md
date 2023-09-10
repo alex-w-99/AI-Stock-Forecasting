@@ -26,7 +26,7 @@ Some important Python libraries that this project relies on include:
 
 ## Program Demo (Screenshots)
 
-- To see some sample outputs of this program, please see the [AI-Stock-Forecasting/images/](https://github.com/alex-w-99/AI-Stock-Forecasting/tree/main/Images) directory.
+- To see some sample outputs of this program, please see the [AI-Stock-Forecasting/images/](https://github.com/alex-w-99/AI-Stock-Forecasting/tree/main/images) directory.
 
 ## Acknowledgments
 
